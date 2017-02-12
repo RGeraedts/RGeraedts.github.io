@@ -2,6 +2,6 @@
     display: none;
 }
 
-#DropdownMenuSubNavigator .sf-menu > li > div {
+#DropdownMenuSubNavigator .sf-menu > li > a > div {
     display: none;
 }
