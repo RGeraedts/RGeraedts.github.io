@@ -1,3 +1,7 @@
+#DropdownMenuSubNavigator .sf-menu > li .TitleOnly> div {
+    display: none;
+}
+
 #DropdownMenuSubNavigator .sf-menu > li > div {
     display: none;
 }
