@@ -23,14 +23,14 @@
 	border:none;
 }
 #PageTitleWrapper{
-	background:#a33c1a;
+	background:##5e9ab2;
 	display:inline-block;
 	margin:0;
-	outline:5px solid #a33c1a;
+	outline:5px solid ##5e9ab2;
 	padding:5px 30px 0 30px;
 	position:relative;
 	text-align:center;
-	width:650px;
+	width:885px;
 	z-index:10;
 }
 #PageTitleWrapper h1{
@@ -46,7 +46,7 @@
 	overflow:hidden;
 }
 div#TitleBreadcrumb{
-	background:#a33c1a;
+	background:#5e9ab2;
 	margin:0;
 	padding:0 5px 5px;
 	text-align:center;
@@ -110,7 +110,7 @@ nav#BasicSubNavigator li a{
 }
 nav#BasicSubNavigator li a:hover,
 nav#BasicSubNavigator ul .ActiveEntry a:hover{
-	background:#a33c1a;
+	background:#5e9ab2;
 }
 nav#BasicSubNavigator li a span:not(.IconSheet){
 	background:#161616;
@@ -153,14 +153,14 @@ nav#BasicSubNavigator li a:hover span:not(.IconSheet){
 }
 div.Module > h3,
 #ContentMessages h3{
-	background:#a33c1a;
+	background:#5e9ab2;
 	border:none;
 	box-shadow:0px 2px 6px #111;
 	font-family:"Roboto Condensed", Verdana, Geneva, sans-serif;
 	font-size:16px;
 	font-weight:bold;
 	letter-spacing:0.1em;
-	outline:3px solid #a33c1a;
+	outline:3px solid #5e9ab2;
 	padding:7px;
 	position:relative;
 	text-align:center;
