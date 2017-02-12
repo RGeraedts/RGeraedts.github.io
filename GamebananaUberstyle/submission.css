@@ -57,7 +57,7 @@ div#TitleBreadcrumb a:hover{
 }
 
 /* Submission Tooltip Text*/
-a.Name {
+div.Content > ul > li > a.Name {
     display: block;
     margin-left: 100px;
 }
