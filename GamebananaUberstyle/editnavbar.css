@@ -1,4 +1,4 @@
-#DropdownMenuSubNavigator .sf-menu > li .TitleOnly > div {
+#DropdownMenuSubNavigator .sf-menu > li.TitleOnly > div {
     display: none;
 }
 
