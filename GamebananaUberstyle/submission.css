@@ -55,6 +55,12 @@ div#TitleBreadcrumb{
 div#TitleBreadcrumb a:hover{
 	color:#fffbed;
 }
+
+/* Submission Tooltip Text*/
+a.Name {
+    display: block;
+    margin-left: 100px;
+}
 /* Submission Navigation Buttons */
 .SubnavigatorIcon + div{
 	display:none;
