@@ -11,3 +11,10 @@
 #ModeratorNoticeModule article {
 	text-align: center;
 }
+
+#tpm__sYogAboutMember .Avatar.online {
+    width: 0px;
+    height: 0px;
+    padding: 100px;
+    background: url(images/profile_avatar_enlarged.png);
+}
