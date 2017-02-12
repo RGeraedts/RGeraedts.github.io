@@ -51,6 +51,12 @@ span.IconSheet.Logo {
 #MemberNavigator .NavigatorTabs > ul > li {
 	box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.9), inset 0 0 0 1px rgba(255, 255, 255, 0.1);
 }
+
+#DropdownMenuSubNavigator {
+    background: #1e1f21;
+    height: 30px;
+    width: 945px;
+}
 /* Stamps */
 #PostsListModule fieldset#Stamps{
 	padding:0;
