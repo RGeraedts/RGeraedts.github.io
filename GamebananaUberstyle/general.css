@@ -14,6 +14,19 @@ body::before {
     animation: disappear 0.5s 3s linear forwards;
 }
 
+body:after
+{
+   content      : '';
+   display      : block;
+   height       : 2px;
+   position     : absolute;
+   left         : 33vw;
+   top          : 80vh;
+   z-index      : 101;
+  /* background   : linear-gradient(to right, transparent, blue, transparent); */
+  /* animation    : progress-bar 3s linear;      3s is the loading duration. */
+}
+
 0% {
     opacity: 1;
     z-index: 100;
