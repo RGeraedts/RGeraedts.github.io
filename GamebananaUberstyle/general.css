@@ -13,17 +13,16 @@ body::before {
     background: #0E0F10 url('images/cassette_loader.gif') fixed center 10vh no-repeat;
     animation: disappear 0.5s 3s linear forwards;
 }
-body, #RemindersPane ul#Reminders li p, #ActivityPane #ActivityCalendar ul .ActivityDay.SelectedDay {
-    cursor: url('http://cur.cursors-4u.net/games/gam-14/gam1340.cur'), default !important;
+
+0% {
+    opacity: 1;
+    z-index: 100;
 }
-body {
-    font: 15px 'Bradley Hand ITC' !important;
+100% {
+    opacity: 0;
+    z-index: -100;
 }
-body {
-    font: 14px 'open sans';
-    word-wrap: break-word;
-    color: rgba(255, 255, 255, 0.75);
-}
+
 body {
     line-height: 1;
 }
