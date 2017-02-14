@@ -10,8 +10,9 @@ body::before {
     top: 0;
     left: 0;
     z-index: 100;
-    background: #0E0F10 url('images/cassette_loader.gif') fixed center 10vh no-repeat;
-    animation: disappear 0.5s 3s linear forwards;
+    background: #000200 url('images/cassette_loader.gif') fixed center 10vh no-repeat;
+    background-size: 50% 50%;
+    animation: disappear 0.5s 6s linear forwards;
 }
 
 body:after
