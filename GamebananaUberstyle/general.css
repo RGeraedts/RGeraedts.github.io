@@ -70,6 +70,7 @@ body{
 #HeaderWrapper{
 	background:none;
 	height:290px;
+    margin-bottom: 150px;
 }
 #HeaderWrapper header > div #HomeLink{
 	background:url(images/apogblogo.png) center center no-repeat;

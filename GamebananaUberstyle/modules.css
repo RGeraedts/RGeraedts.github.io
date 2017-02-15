@@ -18,3 +18,7 @@
     padding: 100px;
     background: url(images/profile_avatar_enlarged.png);
 }
+
+#tpm__sYogAboutMember .uPic {
+    content:url(images/profile_upic_enlarged.png);
+}
