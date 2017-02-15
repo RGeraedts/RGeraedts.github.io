@@ -1,24 +1,29 @@
 /* Moderator Notice */
+
 #ModeratorNoticeModule h3,
-#UpdatesModule h3,#UnseenBroadcastsModule h3{
-	outline: 0;
-	color: #DCCAC3;
-	background: #1E1F21;
-	box-shadow: none;
-	border-bottom: 3px solid #a33c1a;
-	padding: 14px 0 10px;
+#UpdatesModule h3,
+#UnseenBroadcastsModule h3 {
+    outline: 0;
+    color: #DCCAC3;
+    background: #1E1F21;
+    box-shadow: none;
+    border-bottom: 3px solid #a33c1a;
+    padding: 14px 0 10px;
 }
 #ModeratorNoticeModule article {
-	text-align: center;
+    text-align: center;
 }
-
 #tpm__sYogAboutMember .Avatar.online {
     width: 0px;
     height: 0px;
     padding: 100px;
     background: url(images/profile_avatar_enlarged.png);
 }
-
 #tpm__sYogAboutMember .uPic {
-    content:url(images/profile_upic_enlarged.png);
+    width: 0px;
+    height: 0px;
+    padding-top: 40px;
+    background: url(images/profile_upic_enlarged.png);
+    padding-left: 150px;
+    padding-right: 150px;
 }
