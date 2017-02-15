@@ -4,7 +4,7 @@
 .ContentColumn.FluidColumn {
 	width: 500px !important;
 	display: block;
-	float: left;
+/*	float: left; */
     margin-right: 15px;
 }
 .ContentColumn.StaticColumn {
