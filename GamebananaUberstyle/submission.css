@@ -3,7 +3,7 @@
 /*Submission Width*/
 .ContentColumn.FluidColumn {
 	width: 500px !important;
-	display: block;
+/*	display: block; */
 /*	float: left; */
     margin-right: 15px;
 }
