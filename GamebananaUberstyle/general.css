@@ -12,7 +12,7 @@ body::before {
     left: 0;
     z-index: 100;
     background: #000200 url('images/cassette_loader.gif') fixed center 10vh no-repeat;
-    @include imgGlitch("background", 15, 240, 360, 200, 75);
+
     background-position: center;
     animation: disappear 0.5s 4s linear forwards;
 }
@@ -28,6 +28,10 @@ body:after
    z-index      : 101;
   /* background   : linear-gradient(to right, transparent, blue, transparent); */
   /* animation    : progress-bar 3s linear;      3s is the loading duration. */
+}
+
+.loader{
+        @include imgGlitch("loader", 15, 240, 360, 200, 75);
 }
 
 0% {
