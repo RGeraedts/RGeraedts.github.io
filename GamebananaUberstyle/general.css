@@ -30,8 +30,8 @@ body:after
   /* animation    : progress-bar 3s linear;      3s is the loading duration. */
 }
 
-#loader{
-        @include imgGlitch("loader", 15, 240, 360, 200, 75);
+.loader{
+    @include imgGlitch("loader", 15, 240, 360, 200, 75);
 }
 
 0% {
