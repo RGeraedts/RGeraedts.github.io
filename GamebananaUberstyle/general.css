@@ -11,7 +11,7 @@ body::before {
     top: 0;
     left: 0;
     z-index: 100;
-    background: #000200 url('images/cassette_loader.gif') fixed center 10vh no-repeat;
+    background: #000200 url('images/vhs_loader.gif') fixed center 10vh no-repeat;
 
     background-position: center;
     animation: disappear 0.5s 4s linear forwards;
