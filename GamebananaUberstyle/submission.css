@@ -48,6 +48,7 @@
 }
 div#TitleBreadcrumb{
 	background:#5e9ab2;
+    display: none;
 	margin:0;
 	padding:0 5px 5px;
 	text-align:center;
