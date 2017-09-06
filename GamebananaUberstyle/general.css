@@ -2,7 +2,7 @@
 ----------------------------------------------------------------------------- */
 @import url('https://rgeraedts.github.io/GamebananaUberstyle/glitch_effect.css');
 /* Main Structure */
-body::before {
+/* body::before {
     content: '';
     display: block;
     width: 100%;
@@ -29,7 +29,7 @@ body:after
   /* background   : linear-gradient(to right, transparent, blue, transparent); */
   /* animation    : progress-bar 3s linear;      3s is the loading duration. */
 }
-
+*/
 .loader{
     @include imgGlitch("loader", 15, 240, 360, 200, 75);
 }
@@ -117,9 +117,10 @@ span.IconSheet.Logo {
 }
 
 #DropdownMenuSubNavigator {
-    background: #1e1f21;
+    /*background: #1e1f21;*/
     height: 30px;
     width: 945px;
+    border: none;
 }
 /* Stamps */
 #PostsListModule fieldset#Stamps{
