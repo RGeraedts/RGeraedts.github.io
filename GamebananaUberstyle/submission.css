@@ -57,6 +57,8 @@ div#TitleBreadcrumb{
 	margin:0;
 	padding:0 5px 5px;
 	text-align:center;
+    border: none;
+    padding: 0px;
 }
 div#TitleBreadcrumb a:hover{
 	color:#fffbed;
