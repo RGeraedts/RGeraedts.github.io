@@ -51,14 +51,16 @@
 	white-space:nowrap;
 	overflow:hidden;
 }
+div#Breadcrumb{
+    border: none;
+    padding: 0px;
+}
 div#TitleBreadcrumb{
 	background:#5e9ab2;
     display: none;
 	margin:0;
 	padding:0 5px 5px;
 	text-align:center;
-    border: none;
-    padding: 0px;
 }
 div#TitleBreadcrumb a:hover{
 	color:#fffbed;
