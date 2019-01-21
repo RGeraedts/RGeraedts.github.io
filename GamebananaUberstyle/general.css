@@ -82,6 +82,11 @@ body{
 	height:290px;
     margin-bottom: 150px;
 }
+#BodyWrapper, #TopNav, #SideNav, #MainContentHeader.Fixed, #PageFooter{
+    background: none;
+    background-image: none;
+}
+
 #HeaderWrapper header > div #HomeLink{
 	background:url(images/apogblogo.png) center center no-repeat;
 	height:35px;
