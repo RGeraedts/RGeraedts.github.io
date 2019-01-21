@@ -66,6 +66,7 @@ body:after
 }
 :root{
     background: none;
+    background-image: none;
 }
 body{
 	background:#161616 url(images/profile_banner_70s.png) no-repeat center -66px;
