@@ -64,6 +64,9 @@ body:after
     opacity: 0;
     z-index: -100;
 }
+:root{
+    background: none;
+}
 body{
 	background:#161616 url(images/profile_banner_70s.png) no-repeat center -66px;
 }
