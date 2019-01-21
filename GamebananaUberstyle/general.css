@@ -83,8 +83,7 @@ body{
     margin-bottom: 150px;
 }
 #BodyWrapper, #TopNav, #SideNav, #MainContentHeader.Fixed, #PageFooter{
-    background: none;
-    background-image: none;
+    background: none !important;
 }
 
 #HeaderWrapper header > div #HomeLink{
