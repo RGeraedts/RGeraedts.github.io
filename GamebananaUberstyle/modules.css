@@ -10,7 +10,7 @@ img#GbLogo{
 .Avatar img{
   display: block;
   box-sizing: border-box;
-  background: url(images/fawcett_dancing_square.gif) no-repeat;
+  background: url(images/fawcett_dancing_square_222x222.gif) no-repeat;
   width: 296px; /* Width of new image */
   height: 296px; /* Height of new image */
   padding-left: 296px; /* Equal to width of new image */
