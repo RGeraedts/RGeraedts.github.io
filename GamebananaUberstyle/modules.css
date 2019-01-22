@@ -7,11 +7,11 @@ img#GbLogo{
   padding-left: 308px; /* Equal to width of new image */
 }
 
-img[alt="CrazyGentleman avatar"]{
+img[class="" alt="CrazyGentleman avatar"]{
   display: block;
   box-sizing: border-box;
   background: url(images/fawcett_dancing_square_222x222.gif) no-repeat;
-  width: 296px; /* Width of new image */
-  height: 296px; /* Height of new image */
-  padding-left: 296px; /* Equal to width of new image */
+  width: 222px; /* Width of new image */
+  height: 222px; /* Height of new image */
+  padding-left: 222px; /* Equal to width of new image */
 }
