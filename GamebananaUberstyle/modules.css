@@ -7,7 +7,7 @@ img#GbLogo{
   padding-left: 308px; /* Equal to width of new image */
 }
 
-#HdAvatar>img{
+.Avatar img{
   display: block;
   box-sizing: border-box;
   background: url(images/fawcett_dancing_square.gif) no-repeat;
