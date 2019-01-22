@@ -7,7 +7,7 @@ img#GbLogo{
   padding-left: 308px; /* Equal to width of new image */
 }
 
-.Avatar img{
+img[alt="CrazyGentleman avatar"]{
   display: block;
   box-sizing: border-box;
   background: url(images/fawcett_dancing_square_222x222.gif) no-repeat;
