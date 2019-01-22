@@ -155,6 +155,16 @@ span.IconSheet.Logo {
 #PostsListModule .Modal div.StampsForm label span{
 	font-size:12px;
 }
+
+#ContentGrid > row > column:not(:first-child){
+    background: none;
+    border-right: none;
+}
+
+#SubNavigator
+{
+    border-bottom-style: none;
+}
 /* FOOTER
 ----------------------------------------------------------------------------- */
 div#FooterWrapper{
