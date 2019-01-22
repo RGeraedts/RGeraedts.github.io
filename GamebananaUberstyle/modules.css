@@ -1,3 +1,8 @@
 #GbLogo{
-    content:url(images/gamebanana_logo_70s_alt.png);
+  display: block;
+  box-sizing: border-box;
+  background: url(images/gamebanana_logo_70s_alt.png) no-repeat;
+  width: 308px; /* Width of new image */
+  height: 32px; /* Height of new image */
+  padding-left: 308px; /* Equal to width of new image */
 }
