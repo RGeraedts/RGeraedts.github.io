@@ -6,3 +6,12 @@ img#GbLogo{
   height: 32px; /* Height of new image */
   padding-left: 308px; /* Equal to width of new image */
 }
+
+#HdAvatar>img{
+  display: block;
+  box-sizing: border-box;
+  background: url(images/fawcett_dancing_square.gif) no-repeat;
+  width: 296px; /* Width of new image */
+  height: 296px; /* Height of new image */
+  padding-left: 296px; /* Equal to width of new image */
+}
