@@ -26,3 +26,11 @@
 	border-right-color: rgba(40, 46, 34, 255);
 	border-bottom-color: rgba(40, 46, 34, 255);
 }
+
+#HeadlineWrapper overlay h1{
+	display:none;
+}
+
+#PrimaryNav{
+	background:#4c5844;
+}
