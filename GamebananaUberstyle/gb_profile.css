@@ -57,3 +57,16 @@
 	border-right-color: rgba(40, 46, 34, 255);
 	border-bottom-color: rgba(40, 46, 34, 255);
 }
+
+#SubNavigator .ActiveEntry{
+    border-bottom:none;
+    border: 1px outset;
+    border-left-color: rgba(128, 128, 128, 255);
+	border-top-color: rgba(128, 128, 128, 255);
+	border-right-color: rgba(40, 46, 34, 255);
+	border-bottom-color: rgba(40, 46, 34, 255);
+}
+
+#SubNavigator .DropdownMenuSubNavigator>li:hover{
+    border-bottom:none;
+}
