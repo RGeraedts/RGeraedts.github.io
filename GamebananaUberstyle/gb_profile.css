@@ -48,3 +48,12 @@
 #PrimaryNav module{
 	border-right: 0px;
 }
+
+#SubNavigator .DropdownMenuSubNavigator>li:not(.ActiveEntry){
+    background-color:#4c5844;
+    border: 1px outset;
+	border-left-color: rgba(128, 128, 128, 255);
+	border-top-color: rgba(128, 128, 128, 255);
+	border-right-color: rgba(40, 46, 34, 255);
+	border-bottom-color: rgba(40, 46, 34, 255);
+}
