@@ -39,3 +39,7 @@
 #SubNavigator{
 	border-bottom-style:none;
 }
+
+#PrimaryNav module{
+	border-right: none;
+}
