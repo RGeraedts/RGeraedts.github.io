@@ -7,20 +7,20 @@
 
 #ContentGrid>row>column:not(:first-child)
 {
-    background:none;
+    	background:none;
 }
 #ContentGrid>row>column:not(:first-child) module, #ContentGrid>row>column:not(:first-child) moduleGroup{
-    border-bottom-color: rgba(40, 46, 34, 255);
+    	border-bottom-color: rgba(40, 46, 34, 255);
 }
 
 #SubNavigator li spriteIcon{
-    display:none;
+    	display:none;
 }
 
 .PageModule{
-    background-color:#4c5844;
-    margin: .5em 1em 1em 1em;
-    border: 1px outset;
+    	background-color:#4c5844;
+    	margin: .5em 1em 1em 1em;
+	border: 1px outset;
 	border-left-color: rgba(128, 128, 128, 255);
 	border-top-color: rgba(128, 128, 128, 255);
 	border-right-color: rgba(40, 46, 34, 255);
@@ -34,6 +34,11 @@
 #PrimaryNav{
 	background:none;
 	background-color:#4c5844;
+	border: 1px outset;
+	border-left-color: rgba(128, 128, 128, 255);
+	border-top-color: rgba(128, 128, 128, 255);
+	border-right-color: rgba(40, 46, 34, 255);
+	border-bottom-color: rgba(40, 46, 34, 255);
 }
 
 #SubNavigator{
